@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found | Ovulation Calculator</title>
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="https://www.ovulation-calculator.org/404.html">
+  <link rel="stylesheet" href="/css/styles.css">
+  <script>
+    (function () {
+      var redirects = {
+        "/calendar.php": "/#calculator",
+        "/ovulation-symptoms.php": "/ovulation-symptoms/",
+        "/ovulation-predictor.php": "/ovulation-predictor/",
+        "/infertility.php": "/infertility/",
+        "/pregnancy-symptoms.php": "/pregnancy-symptoms/",
+        "/resources.php": "/resources/",
+        "/privacy.php": "/privacy-policy/",
+        "/index.php": "/"
+      };
+      var destination = redirects[window.location.pathname];
+      if (destination) window.location.replace(destination);
+    }());
+  </script>
+</head>
+<body>
+  <main class="article container">
+    <p class="eyebrow">404</p>
+    <h1>That page moved.</h1>
+    <p class="lede">Use the calculator or browse the learning resources.</p>
+    <p><a class="button button--primary" href="/#calculator">Open calculator</a></p>
+    <nav aria-label="Popular pages">
+      <a href="/ovulation-calendar/">Calendar guide</a> |
+      <a href="/ovulation-symptoms/">Ovulation symptoms</a> |
+      <a href="/resources/">Resources</a> |
+      <a href="/faq/">FAQ</a>
+    </nav>
+  </main>
+</body>
+</html>

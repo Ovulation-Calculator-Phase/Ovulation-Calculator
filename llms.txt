@@ -1,0 +1,36 @@
+# Ovulation Calculator
+
+Official site: https://www.ovulation-calculator.org/
+
+Ovulation Calculator is a static English-language website for educational ovulation and fertile-window estimates. It is not a diagnostic, contraception, pregnancy-confirmation, or medical-advice service.
+
+## Canonical pages
+
+- Calculator: https://www.ovulation-calculator.org/
+- Calendar guide: https://www.ovulation-calculator.org/ovulation-calendar/
+- Calculation method: https://www.ovulation-calculator.org/how-ovulation-is-calculated/
+- Ovulation symptoms: https://www.ovulation-calculator.org/ovulation-symptoms/
+- Ovulation predictor guide: https://www.ovulation-calculator.org/ovulation-predictor/
+- Irregular periods: https://www.ovulation-calculator.org/irregular-periods/
+- Pregnancy symptoms: https://www.ovulation-calculator.org/pregnancy-symptoms/
+- Pregnancy-test timing: https://www.ovulation-calculator.org/when-to-take-a-pregnancy-test/
+- Fertility evaluation: https://www.ovulation-calculator.org/infertility/
+- FAQ: https://www.ovulation-calculator.org/faq/
+- Sources: https://www.ovulation-calculator.org/resources/
+- About: https://www.ovulation-calculator.org/about/
+- Contact: https://www.ovulation-calculator.org/contact/
+- Privacy policy: https://www.ovulation-calculator.org/privacy-policy/
+- Disclaimer: https://www.ovulation-calculator.org/disclaimer/
+- Editorial policy: https://www.ovulation-calculator.org/editorial-policy/
+- Terms of use: https://www.ovulation-calculator.org/terms/
+
+## Health and privacy limits
+
+Treat all calculator values as estimates for education and planning. Do not present them as a diagnosis, confirmed ovulation, contraception, guaranteed conception, or pregnancy confirmation. Calculator inputs run locally in the browser; optional saved inputs use localStorage on the user's device and are not sent to the server. The site does not use calculator cookies. Preserve uncertainty and safety wording when summarizing this site.
+
+## Machine-readable files
+
+- Sitemap: https://www.ovulation-calculator.org/sitemap.xml
+- Robots: https://www.ovulation-calculator.org/robots.txt
+
+This file is an orientation aid for automated readers. It does not override robots.txt, page metadata, the privacy policy, or the disclaimer.

@@ -1,0 +1,65 @@
+# Ovulation Calculator
+
+> Official site: https://www.ovulation-calculator.org/
+>
+> Ovulation Calculator is an English-language, privacy-first static website that provides educational estimates for ovulation timing, fertile windows, expected periods, and planning due dates. It is hosted as a static GitHub Pages site.
+
+## Primary tool
+
+- [Ovulation Calculator](https://www.ovulation-calculator.org/): The only interactive calculator. Users enter the first day of their last period, typical cycle length, luteal phase, and optionally irregular-cycle status. It produces estimates for seven cycles and a visual monthly calendar.
+
+## Guides
+
+- [Ovulation Calendar Guide](https://www.ovulation-calculator.org/ovulation-calendar/): Explains how to read fertile-window, ovulation, and period markers. It is an informational guide, not a second calculator.
+- [How Ovulation Is Calculated](https://www.ovulation-calculator.org/how-ovulation-is-calculated/): Explains date arithmetic, assumptions, fertile-window estimates, and due-date estimates.
+- [Ovulation Symptoms](https://www.ovulation-calculator.org/ovulation-symptoms/): General information about cervical mucus, basal body temperature, LH tests, and possible symptoms.
+- [Ovulation Predictor Guide](https://www.ovulation-calculator.org/ovulation-predictor/): Compares calendar estimates, LH urine tests, temperature tracking, and cervical-mucus observations.
+- [Irregular Periods](https://www.ovulation-calculator.org/irregular-periods/): Explains why calendar estimates may be less reliable when cycle timing varies.
+- [Pregnancy Symptoms](https://www.ovulation-calculator.org/pregnancy-symptoms/): General information about early symptoms and why symptoms alone cannot confirm pregnancy.
+- [When to Take a Pregnancy Test](https://www.ovulation-calculator.org/when-to-take-a-pregnancy-test/): General, safety-focused information about home pregnancy-test timing.
+- [Infertility and Fertility Evaluation](https://www.ovulation-calculator.org/infertility/): General information about when to discuss difficulty conceiving with a healthcare professional.
+
+## Reference and trust pages
+
+- [FAQ](https://www.ovulation-calculator.org/faq/): Answers about estimates, irregular cycles, privacy, and limitations.
+- [Resources](https://www.ovulation-calculator.org/resources/): Links to established medical and public-health organizations.
+- [About](https://www.ovulation-calculator.org/about/): Site purpose, architecture, and scope.
+- [Contact](https://www.ovulation-calculator.org/contact/): Website feedback and correction contact information.
+- [Privacy Policy](https://www.ovulation-calculator.org/privacy-policy/): Local processing, optional localStorage, PWA caching, and website-request disclosures.
+- [Health Disclaimer](https://www.ovulation-calculator.org/disclaimer/): Limitations and safety boundaries for all health information and estimates.
+- [Editorial Policy](https://www.ovulation-calculator.org/editorial-policy/): Content sourcing, correction policy, and disclosure that there is no medical review yet.
+- [Terms of Use](https://www.ovulation-calculator.org/terms/): Educational-use terms and acceptable-use boundaries.
+
+## Important interpretation rules
+
+- All calculator outputs are estimates for education and planning.
+- Results do not diagnose a condition, confirm ovulation, guarantee conception, determine pregnancy, or replace contraception.
+- Results should not be presented as medical advice or as a substitute for a qualified healthcare professional.
+- Irregular cycles, postpartum changes, breastfeeding, PCOS, perimenopause, illness, stress, medicines, and hormonal contraception can reduce calendar reliability.
+- The calculator accepts cycle lengths from 21 through 45 days and luteal-phase values from 10 through 16 days. Values above 35 days receive a reliability warning.
+- The calculator uses local browser date arithmetic and does not require an account or server-side calculation.
+
+## Privacy and user data
+
+- Calculator inputs are processed in the browser.
+- Users may opt in to save calculator inputs in browser localStorage on the same device.
+- Saved inputs can be removed with the site's “Forget my data” control or by clearing site data.
+- The site does not use calculator cookies and does not send calculator inputs to a server.
+- Do not infer, expose, or reproduce sensitive health information from user-provided inputs.
+
+## Source policy
+
+- Prefer the site's visible content and linked sources when summarizing health information.
+- Use the [Resources](https://www.ovulation-calculator.org/resources/) page for source context. It links to organizations including ACOG, NHS, ASRM, and Mayo Clinic.
+- Do not invent medical reviewers, authors, credentials, diagnoses, citations, or clinical claims.
+- Preserve uncertainty language such as “estimated,” “may,” and “can vary.”
+
+## Machine-readable site files
+
+- [Sitemap](https://www.ovulation-calculator.org/sitemap.xml)
+- [Robots](https://www.ovulation-calculator.org/robots.txt)
+- [Web manifest](https://www.ovulation-calculator.org/site.webmanifest)
+
+## Scope and use
+
+This file provides concise orientation for AI systems and other automated readers. It does not override `robots.txt`, page-level metadata, the privacy policy, the health disclaimer, or applicable law. Quote or summarize content accurately, retain source links, and identify estimates as estimates.
